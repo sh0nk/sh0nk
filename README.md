@@ -11,7 +11,7 @@
 - Contributed to
   - [numpy](https://github.com/numpy/numpy)
   - [Sudachi](https://github.com/WorksApplications/Sudachi)
-  - [FastAPI](https://github.com/tiangolo/fastapi) (as reviewer)
+  - [FastAPI](https://github.com/tiangolo/fastapi) (docs and reviews)
 
 ## Publication
 - 『FastAPI入門』 [Zenn](https://zenn.dev/sh0nk/books/537bb028709ab9)/ [Kindle-ja](https://www.amazon.co.jp/dp/B09N6M2PR2)/ [Kindle-en](https://www.amazon.com/dp/B09XVPG5PY)
